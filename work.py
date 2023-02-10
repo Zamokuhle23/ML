@@ -6,6 +6,7 @@ from time import sleep
 from binance import AsyncClient
 from binance import AsyncClient, BinanceSocketManager
 
+#Demo Binance Account >>
 api_key = 'YstNFttSJG5nAftDPVTFJAqR6Ro4SMjyXFaXXMNcGmOwd9C6WI7EG0HAwfgCvLip'
 api_secret = 'O4tVRt6SyFSbEWJcu98jOd9VxnuZSAJEDotRbJv6UFaNXEwaxGFruA9fbF7I1LJC'
 client = Client(api_key, api_secret)
