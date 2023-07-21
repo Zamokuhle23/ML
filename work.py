@@ -40,7 +40,7 @@ def Fallen():
         print("price Has Fallen By 1%")
 
 
-
+#Really Now!!
 
 def getHour():
     frame = pd.DataFrame(client.get_historical_klines('XRPUSDT', '1m', '30 min ago UTC'))
